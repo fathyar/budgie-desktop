@@ -14,6 +14,7 @@ if dep_mutter.version().version_compare('>=3.24')
     subdir('night-light')
 endif
 
+subdir('neotifications')
 subdir('notifications')
 subdir('raven-trigger')
 subdir('places-indicator')
