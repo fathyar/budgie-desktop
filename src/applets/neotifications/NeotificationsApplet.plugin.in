@@ -1,0 +1,8 @@
+[Plugin]
+Module=neotificationsapplet.so
+Name=Neotifications
+_Description=Notifications without the blurry pixbuf icon
+Authors=Budgie Desktop Developers
+Copyright=Copyright © 2015-2021 Budgie Desktop Developers
+Website=https://budgie-desktop.org
+Icon=notifications-applet-symbolic
